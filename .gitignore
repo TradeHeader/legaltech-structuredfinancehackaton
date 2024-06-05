@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore JetBrains project files
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore partition output
+partition_output/
+
+# Ignore Python cache files
+jinaai/
+
+
